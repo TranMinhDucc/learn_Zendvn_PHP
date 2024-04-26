@@ -1,0 +1,26 @@
+.border {
+    border: 1px solid black;
+
+  
+}
+
+.result {
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+    
+}
+
+image {
+    display: block;
+}
+.box {
+    width: 643px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.title {
+    text-align: center;
+}
